@@ -23,12 +23,6 @@
     "url": "https://github.com/necfol/eslint-config-necfol/issues"
   },
   "homepage": "https://github.com/necfol/eslint-config-necfol#readme",
-  "prettier": {
-    "semi": false,
-    "doubleQuote": true,
-    "trailingComma": "all",
-    "tabWidth": 4
-  },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
     "eslint": "^4.19.1",

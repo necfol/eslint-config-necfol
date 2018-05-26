@@ -29,7 +29,12 @@ module.exports = {
     //error或2--开启规则，错误级别(当被触发的时候，程序会退出)
     rules: {
         "comma-dangle": 0,
-        "prettier/prettier": "error",
+        "prettier/prettier": ["error", {
+            "semi": false,
+            "doubleQuote": true,
+            "trailingComma": "all",
+            "tabWidth": 4
+        }],
         "quotes": ["error", "double"],
         "no-dupe-keys": 2,//在创建对象字面量时不允许键重复 {a:1,a:1}
         "no-dupe-args": 2,//函数参数不能重复
