@@ -24,7 +24,7 @@
     "url": "https://github.com/necfol/eslint-config-necfol/issues"
   },
   "homepage": "https://github.com/necfol/eslint-config-necfol#readme",
-  "devDependencies": {
+  "dependencies": {
     "babel-eslint": "^8.2.3",
     "eslint": "^4.19.1",
     "eslint-config-prettier": "^2.9.0",
@@ -37,6 +37,8 @@
     "eslint-plugin-react": "^7.8.2",
     "eslint-plugin-standard": "^3.1.0",
     "eslint-plugin-vue": "^4.5.0",
+  },
+  "devDependencies": {
     "prettier": "^1.12.1"
   }
 }
