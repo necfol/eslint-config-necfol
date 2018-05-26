@@ -4,6 +4,7 @@
   "description": "my eslint config",
   "main": "index.js",
   "scripts": {
+    "eslint-check": "eslint --print-config .eslintrc.js | eslint-config-prettier-check",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
