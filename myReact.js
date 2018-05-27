@@ -1,5 +1,5 @@
 module.exports = {
-    extends: ["./index.js"],
-    plugins: ["react"],
+    extends: ['./index.js'],
+    plugins: ['react'],
     rules: {},
 }
