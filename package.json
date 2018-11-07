@@ -39,6 +39,6 @@
     "eslint-plugin-vue": "^4.5.0"
   },
   "devDependencies": {
-    "prettier": "^1.12.1"
+    "prettier": "^1.15.1"
   }
 }
