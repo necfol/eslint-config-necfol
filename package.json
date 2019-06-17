@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/necfol/eslint-config-necfol#readme",
   "dependencies": {
-    "babel-eslint": "^8.2.3",
+    "babel-eslint": "^10.0.2",
     "eslint": "^4.19.1",
     "eslint-config-prettier": "^2.9.0",
     "eslint-config-standard": "^11.0.0",
